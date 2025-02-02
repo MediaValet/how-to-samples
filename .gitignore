@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/upload-an-asset/UploadBigAssetsSample/.vs/UploadBigAssetsSample
+/upload-an-asset/UploadBigAssetsSample/bin/Debug/net8.0
+/upload-an-asset/UploadBigAssetsSample/obj
